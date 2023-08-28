@@ -1,6 +1,7 @@
-**Exercice 00: ft_putchar**
+### Exercice 00: ft_putchar
 
 Files to turn in: ft_putchar.c
+<br>
 Allowed functions: write
 <br><br>
 Write a function that displays the character passed as a parameter.
