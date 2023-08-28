@@ -17,7 +17,7 @@ $>./a.out | cat -e
 987 isn’t there because 789 already is.
 <br>
 999 isn’t there because the digit 9 is present more than once.
-<br>
+<br><br>
 Here’s how it should be prototyped:
 ```c
 void ft_print_comb(void);
