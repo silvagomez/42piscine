@@ -1,4 +1,10 @@
-## WHAT IS THE PISCINE AT 42?
+## C Piscine @ 42 Urduliz
+
+> [!NOTE]
+> This repository contains coding developed at [42Urduliz](https://www.42urduliz.com/) C bootcamp (also known as Piscine).
+> From 13/Feb/2023 to 10/Mar/2023
+
+### WHAT IS THE PISCINE AT 42?
 
 *_The highlight of the selection at 42 is the Piscine._*
 
