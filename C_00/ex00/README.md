@@ -1,5 +1,6 @@
 ### Exercice 00: ft_putchar
-
+| Rule | Description |
+| --- | --- |
 | Turn-in directory | ex00/ |
 | Files to turn in | ft_putchar.c |
 | Allowed functions | write |
