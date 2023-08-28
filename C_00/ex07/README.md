@@ -15,4 +15,4 @@ void ft_putnbr(int nb);
 ```
 For example:
 <br>
-ft_putnbr(42) displays "42".
+_ft_putnbr(42) displays "42"._
