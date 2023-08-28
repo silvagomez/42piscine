@@ -1,5 +1,5 @@
 
-### Exercice 02: [ft_is_negative](https://github.com/silvagomez/42piscine/blob/main/C_00/ex04/ft_is_negative.c)
+### Exercice 04: [ft_is_negative](https://github.com/silvagomez/42piscine/blob/main/C_00/ex04/ft_is_negative.c)
 
 | Rule              | Description                 |
 | ----------------- | --------------------------- |
