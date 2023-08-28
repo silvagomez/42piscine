@@ -8,7 +8,7 @@
 | Allowed functions | write               |
 
 Create a function that displays the alphabet in lowercase, on a single line, by
-ascending order, starting from the letter ’a’. <br>
+ascending order, starting from the letter ’a’. <br><br>
 Here’s how it should be prototyped:
 ```c
 void ft_print_alphabet(void);
