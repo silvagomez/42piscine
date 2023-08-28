@@ -5,7 +5,7 @@
 > <br>
 > From 13/Feb/2023 to 10/Mar/2023
 
-<br><br>
+<br>
 
 ### WHAT IS THE PISCINE AT 42?
 
