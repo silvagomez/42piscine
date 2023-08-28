@@ -1,5 +1,5 @@
 ## C Piscine @ 42 Urduliz
-<br><br>
+<br>
 
 > [!IMPORTANT]
 > This repository contains coding developed at [42Urduliz](https://www.42urduliz.com/) C bootcamp, also known as **_Piscine_**.
