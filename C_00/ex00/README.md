@@ -1,4 +1,4 @@
-### Exercice 00: ft_putchar
+## Exercice 00: ft_putchar
 
 Files to turn in: ft_putchar.c
 <br>
