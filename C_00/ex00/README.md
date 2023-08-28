@@ -6,7 +6,8 @@
 | Files to turn in  | ft_putchar.c |
 | Allowed functions | write        |
 
-Write a function that displays the character passed as a parameter. <br>
+Write a function that displays the character passed as a parameter.
+<br><br>
 It will be prototyped as follows:
 ```c
 void ft_putchar(char c);
