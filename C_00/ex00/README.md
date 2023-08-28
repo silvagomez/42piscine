@@ -1,8 +1,10 @@
 ### Exercice 00: ft_putchar
 
-- [x] Files to turn in: ft_putchar.c
+Turn-in directory : ex00/
 <br>
-- [x] Allowed functions: write
+Files to turn in: ft_putchar.c
+<br>
+Allowed functions: write
 <br><br>
 Write a function that displays the character passed as a parameter.
 It will be prototyped as follows:
