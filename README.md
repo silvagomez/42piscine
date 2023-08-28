@@ -6,10 +6,22 @@
 > <br>
 > From 13/Feb/2023 to 10/Mar/2023
 <br>
+```
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [125.6, 10.1]
+  },
+  "properties": {
+    "name": "Dinagat Islands"
+  }
+}
+```
 
 ### WHAT IS THE PISCINE AT 42?
 _The highlight of the selection at 42 is the Piscine_.
-<br>
+<br><br>
 You don’t have to know how to code to apply to the Piscine at 42.
 Whatever your starting level is, the idea is to test the candidates involvement capacity during the Piscine at 42.
 Rather than offering a straight computer initiation, the Piscine at 42 lets you start the curriculum with intensive training in C, the first language you have to use during the training course.
