@@ -1,7 +1,7 @@
 ## C Piscine @ 42 Urduliz
 
 > [!IMPORTANT]
-> This repository contains coding developed at [42Urduliz](https://www.42urduliz.com/) C bootcamp, also known as _Piscine_.
+> This repository contains coding developed at [42Urduliz](https://www.42urduliz.com/) C bootcamp, also known as **_Piscine_**.
 > <br>
 > From 13/Feb/2023 to 10/Mar/2023
 
