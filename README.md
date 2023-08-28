@@ -12,18 +12,12 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1,
-      "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-    ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.0, 0.5]
+      },
       "properties": {
-        "ID": 0
+        "prop0": "value0"
       }
     }
   ]
