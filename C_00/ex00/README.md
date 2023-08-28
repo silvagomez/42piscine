@@ -1,5 +1,5 @@
 ### Exercice 00: ft_putchar
-<br>
+
 | Rule              | Description  |
 | ----------------- | ------------ |
 | Turn-in directory | ex00/        |
