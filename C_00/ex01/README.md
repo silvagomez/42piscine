@@ -1,5 +1,5 @@
 
-### Exercice 00: ft_print_alphabet
+### Exercice 01: ft_print_alphabet
 
 | Rule              | Description         |
 | ----------------- | ------------------- |
@@ -8,7 +8,7 @@
 | Allowed functions | write               |
 
 Create a function that displays the alphabet in lowercase, on a single line, by
-ascending order, starting from the letter ’a’.
+ascending order, starting from the letter ’a’.<br>
 Here’s how it should be prototyped:
 ```c
 void ft_print_alphabet(void);
