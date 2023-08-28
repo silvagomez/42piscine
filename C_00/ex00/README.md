@@ -1,4 +1,4 @@
-### Exercice 00: ft_putchar
+### Exercice 00: [ft_putchar](https://github.com/silvagomez/42piscine/blob/main/C_00/ex00/ft_putchar.c)
 
 | Rule              | Description  |
 | ----------------- | ------------ |
